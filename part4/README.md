@@ -1,7 +1,7 @@
 #You have company
 
 ##Gobelins are charming creature
-A mischievous and illiterate creature appeared
+A mischievous and illiterate creature appeared  <t>font color="green">This is green!</fon
 
 *Hide the traps*
 

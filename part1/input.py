@@ -6,6 +6,7 @@ curses.noecho()
 while 1:
     c = stdscr.getch()
     if c == ord('p'): stdscr.addstr("FART\n")
+    elif c == ord('c'): stdscr.addch('x')
     elif c == ord('q'): break  # Exit the while()
     elif c == curses.KEY_HOME: x = y = 0
 
