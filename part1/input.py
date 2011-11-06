@@ -2,10 +2,10 @@
 import curses
 stdscr = curses.initscr()
 stdscr.timeout(-1);
-
+curses.noecho()
 while 1:
     c = stdscr.getch()
-    if c == ord('p'): print "POUUF"
+    if c == ord('p'): stdscr.addstr("FART\n")
     elif c == ord('q'): break  # Exit the while()
     elif c == curses.KEY_HOME: x = y = 0
 

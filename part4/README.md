@@ -1,7 +1,7 @@
-#A sick world
+#You have company
 
-##It's a trap !
-The level now contain traps `t`. Sadly our hero can not detect them so they should not be drawn on the screen.
+##Gobelins are charming creature
+A mischievous and illiterate creature appeared
 
 *Hide the traps*
 
