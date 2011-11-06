@@ -3,7 +3,7 @@
 ##Goblins are charming creature
 A mischievous and illiterate creature appeared the goblin `g`. Goblins have the particularity of being green.
 
-*Display the green goblin*
+*Display the green goblin [Hint](http://docs.python.org/howto/curses.html#attributes-and-color)*
 
 ##Not a pet
 If our hero comes into contact with the goblin he gets clubbed for looking funny and looses 10HP
